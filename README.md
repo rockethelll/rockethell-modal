@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm i modal-oc-p14
+npm i @rockethell/modal
 ```
 
 ## Props needed
@@ -17,7 +17,7 @@ npm i modal-oc-p14
 ## Example
 
 ```jsx
-import Modal from './modal/Modal';
+import Modal from '@rockethell/modal';
 import { useState } from 'react';
 
 const App = () => {
@@ -48,4 +48,3 @@ const App = () => {
 
 export default App;
 ```
-# rockethell-modal
