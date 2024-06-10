@@ -1,6 +1,6 @@
 {
   "name": "@rockethell/modal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple react modal component for my learning project OC P14",
   "main": "Modal.jsx",
   "scripts": {
